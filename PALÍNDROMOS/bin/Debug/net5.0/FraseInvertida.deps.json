@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FraseInvertida/1.0.0": {
+        "runtime": {
+          "FraseInvertida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FraseInvertida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

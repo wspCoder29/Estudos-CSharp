@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FRASE INVERTIDA PALINNDROMO/1.0.0": {
+        "runtime": {
+          "FRASE INVERTIDA PALINNDROMO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FRASE INVERTIDA PALINNDROMO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
