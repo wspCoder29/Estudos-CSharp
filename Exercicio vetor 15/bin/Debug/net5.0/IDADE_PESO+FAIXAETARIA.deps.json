@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IDADE_PESO+FAIXAETARIA/1.0.0": {
+        "runtime": {
+          "IDADE_PESO+FAIXAETARIA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDADE_PESO+FAIXAETARIA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
